@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #fff8f8;
+}
+li{
+    display: inline;
+    
+}
+.navbar{
+    background-color: #fff8f8;;
+    /* width:100%; */
+    padding: 20px;
+    padding-left: 45px;
+    margin: 0px;
+    font-size: 20px;
+    position: relative;
+    justify-content: space-evenly;
+
+}
+a{
+    color:rgb(160, 160, 20);
+    text-decoration: none;
+    /* padding: 10px; */
+}
+.resume{
+    text-decoration: underline;
+}
+.main-heading{
+    color:rgb(160, 160, 20);
+    text-align: left;
+    font-size: 65px;
+}
+.other{
+    float : right;
+    padding-right: 25px;
+}
+.main{
+    display: block;
+    padding: 100px;
+    padding-bottom: 30px;
+    margin-left: 0px;
+    /* line-height: 53px; */
+}
+.para{
+    font-size: 30px;
+    color:rgb(160, 160, 20);
+    text-align: left;
+}
+.small{
+    text-align : center;
+    color:rgb(160, 160, 20);
+}
+.text-span{
+    color: rgb(226, 138, 23);
+}
+img{
+    height:400px;
+    width: 700px;
+}
+.project {
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    display: flex;
+    margin-bottom: 20px;
+    height:400px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.project:hover{
+    transform: scale(1.06);
+    box-shadow: 0 8px 10px 0 rgb(126, 126, 9), 0 6px 20px 0 rgba(126, 126, 9, 0.19);
+}
+.collection-list{
+    padding: 30px;
+    margin: 10px 60px 30px 0px;
+    
+}
+.project-details{
+    padding: 20px;
+    align-content: center ;
+    line-height: 30px;
+    background-color: rgb(160, 160, 20); 
+}
+.footer{
+    background-color: rgb(226, 138, 23);
+    margin-bottom: 0px;
+}
+.footer-items{
+    align-items: flex-start;
+    padding: 50px;
+}
+.text-block-3{
+    color: white;
+    font-size: 23px;
+    /* font-family:  'Times New Roman', ; */
+    line-height: 32px;
+    align-items: flex-start;
+    text-align: left;
+    margin:20px;
+}
+.btn{
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.buttons{
+    background-color: rgb(226, 138, 23);
+    color: white;
+    border-color:  rgb(160, 160, 20);
+    border-width: 0.5px;
+    border-radius: 4px;
+    margin:5px;
+    padding:5px;
+    justify-content: space-between;
+}
+.image{
+    height: 18cm;
+    width: 15cm;
+    border-radius: 10px;
+}
+.container{
+    margin:100px
+}
+.about1{
+    display: flex;
+}
+.description{
+    padding: 0px 25px 0px 35px;
+    font-size: 20px;
+    line-height: 1cm;
+    align-content: center;
+}
+.greet{
+text-align: center;
+  margin: 20px 0px 100px 0px;
+}
