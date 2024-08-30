@@ -2,7 +2,7 @@
 
 # "Crafting a Digital Showcase: My Oasis Internship Journey
 
-As part of my internship at Oasis, I had the opportunity to develop this responsive portfolio website. This project allowed me to showcase my skills in [mention specific skills, e.g., HTML, CSS, JavaScript, React, etc.], while also learning valuable lessons about web design and development.
+As part of my internship at Oasis, I had the opportunity to develop this responsive portfolio website. This project allowed me to showcase my skills in HTML, CSS, JavaScript. while also learning valuable lessons about web design and development.
 
 I'm proud of the result and believe it effectively represents my abilities and potential. Explore my work and feel free to connect!"
 
